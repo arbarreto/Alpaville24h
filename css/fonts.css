@@ -1,0 +1,35 @@
+@font-face {
+    font-family: font_bold;
+    src: url(/fonts/bold.otf);
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: font_thin;
+    src: url(/fonts/thin.otf);
+    font-weight: thin;
+}
+
+@font-face {
+    font-family: font_medium;
+    src: url(/fonts/medium.otf);
+    font-weight: medium;
+}
+
+@font-face {
+    font-family: font_regular;
+    src: url(/fonts/regular.otf);
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: font_semibold;
+    src: url(/fonts/semibold.otf);
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: font_light;
+    src: url(/fonts/light.otf);
+    font-weight: lighter;
+}
